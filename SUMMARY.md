@@ -10,7 +10,7 @@
  * [মাঘসংক্রান্তির  রাতে](7.1.maghsongkrantir-rate.md)
  * [আমাকে একটি কথা দাও](7.2.amake-ekti-kotha-dao.md)
  * [তোমাকে](7.3.tomake.md)
- * [সময়সেতুপথে](7.4.somoysetupthe.md)
+ * [সময়সেতুপথে](7.4.somoysetupothe.md)
  * [যতিহীন](7.5.jotihin.md)
  * [অনেক নদীর জল](7.6.onek-nodir-jol.md)
  * [শতাব্দী](7.7.shotabdi.md)
