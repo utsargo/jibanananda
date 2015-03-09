@@ -15,7 +15,7 @@
  * [অনেক নদীর জল](7.6.onek-nodir-jol.md)
  * [শতাব্দী](7.7.shotabdi.md)
  * [সূর্য নক্ষত্র নারী](7.8.surjo-nkkhotro-nari.md)
- * [চারিদিকে প্রকৃতির](7.9.caridike-prokritir.md)
+ * [চারিদিকে প্রকৃতির](7.9.charidike-prokritir.md)
  * [মহিলা](7.10.mohila.md)
 
 * [অপ্রকাশিত কবিতা](8.0.Oprokashito-kobita.md)
