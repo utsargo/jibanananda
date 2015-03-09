@@ -1,5 +1,5 @@
 # Summary
-* [শুরুর কথা](README.md)
+
 * [ঝরা পালক](1.0.jhora-palok.md)
 * [ধূসর পাণ্ডুলিপি](2.0.ruposhi-bangla.md)
 * [বনলতা সেন](3.0.bonolota-sen.md)
