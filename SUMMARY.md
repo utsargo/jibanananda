@@ -2,6 +2,8 @@
 
 * [ঝরা পালক](1.0.jhora-palok.md)
 * [ধূসর পাণ্ডুলিপি](2.0.dhusor-pandulipi.md)
+ * [নির্জন সাক্ষর](2.1.nirjon-sakkhor.md)
+ * [বোধ](2.7.bodh.md)
 * [বনলতা সেন](3.0.bonolota-sen.md)
 * [মহাপৃথিবী](4.0.mohaprithibi.md)
 * [সাতটি তারার তিমির](5.0.satti-tarar-timir.md)
