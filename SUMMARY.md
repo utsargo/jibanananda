@@ -1,7 +1,7 @@
 # Summary
 
 * [ঝরা পালক](1.0.jhora-palok.md)
-* [ধূসর পাণ্ডুলিপি](2.0.ruposhi-bangla.md)
+* [ধূসর পাণ্ডুলিপি](2.0.dhusor-pandulipi.md)
 * [বনলতা সেন](3.0.bonolota-sen.md)
 * [মহাপৃথিবী](4.0.mohaprithibi.md)
 * [সাতটি তারার তিমির](5.0.satti-tarar-timir.md)
