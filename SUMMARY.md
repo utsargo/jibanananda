@@ -20,6 +20,7 @@
  * [সূর্য নক্ষত্র নারী](7.8.surjo-nkkhotro-nari.md)
  * [চারিদিকে প্রকৃতির](7.9.charidike-prokritir.md)
  * [মহিলা](7.10.mohila.md)
+ * [অবরোধ](7.14.aborodh.md)
 * [ছায়া আবছায়া](9.0.chaya-abchaya.md)
  * [১](9.1.ek.md)
  * [২](9.2.dui.md)
