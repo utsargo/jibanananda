@@ -38,3 +38,4 @@
  * [৪](9.4.char.md)
  * [৫](9.5.panch.md)
 * [অপ্রকাশিত কবিতা](8.0.Oprokashito-kobita.md)
+* [কৃতজ্ঞতা](contributors.md)
