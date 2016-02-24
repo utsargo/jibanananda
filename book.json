@@ -8,5 +8,5 @@
     "plugins": [
     "gitbook-plugin-unicodecss"
      ]
-
+    "plugins": ["search"]
 }
