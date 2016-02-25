@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus"],
+    "plugins": ["disqus", "gitbook-plugin-unicodecss", "search"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "jibananandaorg"
@@ -7,10 +7,3 @@
     }
 }
 
-{      
-    "plugins": ["gitbook-plugin-unicodecss"]
-}
-
-{
-    "plugins": ["search"]
-}
