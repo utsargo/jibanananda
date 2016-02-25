@@ -4,9 +4,13 @@
         "disqus": {
             "shortName": "jibananandaorg"
         }
-    }       
-    "plugins": [
-    "gitbook-plugin-unicodecss"
-     ]
+    }
+}
+
+{      
+    "plugins": ["gitbook-plugin-unicodecss"]
+}
+
+{
     "plugins": ["search"]
 }
