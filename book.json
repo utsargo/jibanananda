@@ -4,7 +4,7 @@
         "disqus": {
             "shortName": "jibananandaorg"
         }
-    }
+    },
 	"plugins": ["gitbook-plugin-unicodecss", "search"]
 }
 
