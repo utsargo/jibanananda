@@ -30,7 +30,7 @@
  * [মিশর](1.26.mishor.md)
  * [পিরামিড](1.27.pyramid.md)
  * [মরুবালু](1.28.morubalu.md)
- * [চাঁদিনীতে](1.29.chandnite.md)
+ * [চাঁদিনীতে](1.29.chandinite.md)
  * [দক্ষিণা](1.30.dokshina.md)
  * [যে কামনা নিয়ে](1.31.je-kamona-niye.md)
  * [স্মৃতি](1.32.smriti.md)
