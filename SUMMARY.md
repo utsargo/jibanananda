@@ -2,7 +2,7 @@
 * [শুরুর কথা](README.md)
 * [ঝরা পালক](1.0.jhora-palok.md)
  * [ভূমিকা](1.0.1.bhumika-jhora-palok.md)
- * [আমি কবি– সেই কবি](1.1.aami-kbi-sei-kobi.md)
+ * [আমি কবি–সেই কবি](1.1.aami-kbi-sei-kobi.md)
  * [নীলিমা](1.2.neelima.md)
  * [নব নবীনের লাগি](1.3.nobo-nobiner-lagi.md)
  * [কিশোরের প্রতি](1.4.kishorer-proti.md)
