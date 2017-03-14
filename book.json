@@ -8,3 +8,6 @@
 	"plugins": ["search"]
 }
 
+{
+    "plugins": ["toggle-chapters"]
+}
