@@ -5,9 +5,7 @@
             "shortName": "jibananandaorg"
         }
     },
-	"plugins": ["search"]
-}
-
-{
+	"plugins": ["search"],
     "plugins": ["toggle-chapters"]
 }
+
