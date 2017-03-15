@@ -96,7 +96,7 @@
 * [বনলতা সেন](3.0.bonolota-sen.md)
  * [বনলতা সেন](3.1.bonolota--sen.md)
  * [কুড়ি বছর পরে](3.2.kuri-bochor-pore.md)
- * [হাওয়ার রাত](3.3.haowar-raat.md)
+ * [হাওয়ার রাত](3.3.haoar-raat.md)
  * [আমি যদি হতাম](3.4.ami-jodi-hotam.md)
  * [ঘাস](3.5.ghas.md)
  * [হায় চিল](3.6.haay-chil.md)
