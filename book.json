@@ -6,13 +6,5 @@
         }
     },
 	"plugins": ["search"],
-    "plugins": ["expandable-chapters"],
-    "plugins": ["downloadpdf"],
-    "pluginsConfig": {
-    "downloadpdf": {
-      "base": "https://www.gitbook.com/book/utsargo/jibanananda/details",
-      "label": "ই-বুুক ডাউনলোড",
-      "multilingual": false
-    }
-  }
+    "plugins": ["expandable-chapters"] 
 }
