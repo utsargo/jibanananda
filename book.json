@@ -7,7 +7,7 @@
     },
 	"plugins": ["search"],
     "plugins": ["expandable-chapters"],
-     "plugins": ["downloadpdf"],
+    "plugins": ["downloadpdf"],
     "pluginsConfig": {
     "downloadpdf": {
       "base": "https://www.gitbook.com/book/utsargo/jibanananda/details",
