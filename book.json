@@ -1,6 +1,6 @@
 {
     "title": "জীবনানন্দ কবিতাসগ্র",
-    "plugins": ["disqus", "search", "expandable-chapters", "thumbnail", "favicon"],
+    "plugins": ["disqus", "search", "expandable-chapters", "thumbnail", "favicon", "meta"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "jibananandapoems"
@@ -12,6 +12,15 @@
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico",
             "appleTouch": "apple-touch-icon-precomposed-152.png"
+        },
+        "meta": {
+            "data": [
+                {
+                    "name": "og-img",
+                    "content": "jibanananda.jpg",
+                    "property": "og:image"
+                }
+            ]
         }
     }
 }
