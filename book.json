@@ -1,16 +1,11 @@
 {
     "title": "জীবনানন্দ দাশের কবিতাসগ্র",
-    "plugins": ["disqus"],
+    "plugins": ["disqus", "search", "expandable-chapters", "thumbnail"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "jibananandapoetryobnibus"
-        }
-    },
-	"plugins": ["search"],
-    "plugins": ["expandable-chapters"],
-    "plugins": ["thumbnail"],
-    "pluginsConfig": {
-        "thumbnail": {
+        },
+	"thumbnail": {
             "path": "https://jibanananda.ml/images/jibanananda.jpg"
         }
     }
