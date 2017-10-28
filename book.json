@@ -11,8 +11,7 @@
         "favicon":{
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico",
-            "appleTouch": "apple-touch-icon-precomposed-152.png",
-           
+            "appleTouch": "apple-touch-icon-precomposed-152.png"
         }
     }
 }
