@@ -1,5 +1,5 @@
 {
-    "title": "জীবনানন্দ দাশের কবিতাসগ্র",
+    "title": "জীবনানন্দ কবিতাসগ্র",
     "plugins": ["disqus", "search", "expandable-chapters", "thumbnail"],
     "pluginsConfig": {
         "disqus": {
