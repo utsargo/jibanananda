@@ -3,7 +3,7 @@
     "plugins": ["disqus", "search", "expandable-chapters", "thumbnail"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "jibananandapoetryobnibus"
+            "shortName": "jibananandapoems"
         },
 	"thumbnail": {
             "path": "https://jibanananda.ml/images/jibanananda.jpg"
