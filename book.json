@@ -5,17 +5,14 @@
         "disqus": {
             "shortName": "jibananandapoems"
         },
-	"thumbnail": {
+	    "thumbnail": {
             "path": "https://jibanananda.ml/images/jibanananda.jpg"
         },
         "favicon":{
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico",
             "appleTouch": "apple-touch-icon-precomposed-152.png",
-            "appleTouchMore": {
-                "120x120": "apple-touch-icon-precomposed-152.png",
-                "180x180": "apple-touch-icon-precomposed-152.png",
-            }
+           
         }
     }
 }
