@@ -1,5 +1,5 @@
 {
-    "title": "জীবনানন্দ কবিতাসগ্র",
+    "title": "জীবনানন্দ কবিতাসমগ্র",
     "plugins": ["disqus", "search", "expandable-chapters", "thumbnail", "favicon", "meta"],
     "pluginsConfig": {
         "disqus": {
