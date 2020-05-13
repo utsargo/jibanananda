@@ -2,7 +2,7 @@
 
 * [ভূমিকা](README.md)
 * [মূল পাতা](http://jibanananda.ml)
-* [শুরুর কথা](readme.md)
+* [শুরুর কথা](readme-1.md)
 * [ঝরা পালক](1.0.jhora-palok/README.md)
   * [ভূমিকা](1.0.jhora-palok/1.0.1.bhumika-jhora-palok.md)
   * [আমি কবি–সেই কবি](1.0.jhora-palok/1.1.aami-kbi-sei-kobi.md)
@@ -147,7 +147,7 @@
   * [ইহাদেরি কানে](4.0.mohaprithibi/4.17.ihaderi-kane.md)
   * [সূর্যসাগরতীরে](4.0.mohaprithibi/4.18.surjosagorteere.md)
   * [মনোবীজ](4.0.mohaprithibi/4.19.monobeej.md)
-  * [পরিচায়ক](4.0.mohaprithibi/4.20.porichayok.md)
+  * [পরিচায়ক](4.0.mohaprithibi/undefined.md)
   * [বিভিন্ন কোরাস](4.0.mohaprithibi/undefined-1.md)
   * [এক](4.0.mohaprithibi/undefined-2.md)
   * [দুই](4.0.mohaprithibi/undefined-3.md)
